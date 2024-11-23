@@ -2,7 +2,7 @@
 
 A powerful and flexible Python library for advanced date and time manipulation. Datepulator provides an intuitive interface for working with dates, including timezone conversions, business day calculations, date arithmetic, and more.
 
-[![PyPI version](https://badge.fury.io/py/datepulator.svg)](https://badge.fury.io/py/datepulator)
+[![PyPI version](https://badge.fury.io/py/datepulator.svg)](https://pypi.org/project/datepulator/)
 [![Python Support](https://img.shields.io/pypi/pyversions/datepulator.svg)](https://pypi.org/project/datepulator/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -200,7 +200,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Support 💬
 
 If you have any questions or run into issues, please:
-1. Check the [Issues](https://github.com/yourusername/datepulator/issues) page
+1. Check the [Issues](https://github.com/Ashlo/Datepulator/issues) page
 2. Create a new issue if your problem isn't already listed
 3. Provide as much detail as possible about your problem
 
@@ -212,4 +212,4 @@ If you have any questions or run into issues, please:
 
 ---
 
-Made with ❤️ by [Your Name/Organization]
+Made with ❤️ by Ashutosh Bele
